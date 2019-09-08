@@ -1,9 +1,9 @@
 # Site Info
-title: '초보몽키의 개발공부로그'
-tagline: '초보몽키의 개발공부로그'
-description: '프로그래밍을 공부하며 배운점 느낀점을 기록하는 곳입니다.'
+title: 'whqjatjr1328의 studying archive'
+tagline: 'whqjatjr1328의 studying archive'
+description: '지금까지 배운것들을 차곡차곡 정리하여 기록하는 곳입니다.'
 baseurl: ""
-url: https://jbeom3.github.io
+url: https://whqjatjr1328.github.io
 logo: '/public/logo.png'
 
 # Site configurations
@@ -24,15 +24,15 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: LEE HYUNJOO
-  description: 초보몽키(LEE HYUNJOO)
+  name: BeomSeok JO
+  description: whqjatjr1328(BeomSeok JO)
   contact:
     # linkedin:  https://www.linkedin.com/in/lizhihao
-    github:    https://github.com/wayhome25
-    facebook:  https://www.facebook.com/wayhome25
-    # twitter:   https://twitter.com/Li_Zhihao
-    # weibo:     http://weibo.com/41173780
-    email:    mailto:siwabada@gmail.com
+    github:    https://github.com/whqjatjr1328
+    #facebook:  https://www.facebook.com/wayhome25
+    # twitter:   
+    # weibo:     
+    email:    mailto:whqjatjr1328@naver.com
 
 # Navigation (2nd level links supported)
 nav:
@@ -41,17 +41,17 @@ nav:
   Categories:
     - '/'
     # - { Categories All: '/blog/categories/' }
-    - { TIL (Today I Learned): '/blog/categories/#til' }
-    - { 컴퓨터공학 : '/blog/categories/#컴퓨터공학' }
-    - { Django: '/blog/categories/#django' }
-    - { python: '/blog/categories/#python' }
-    - { javascript: '/blog/categories/#javascript' }
-    - { nodejs: '/blog/categories/#nodejs' }
-    - { MySQL: '/blog/categories/#MySQL' }
-    - { 알고리즘 문제풀이: '/blog/categories/#알고리즘-문제풀이' }
-    - { git: '/blog/categories/#git' }
-    - { firebase: '/blog/categories/#firebase' }
-    - { etc: '/blog/categories/#etc' }
+    #- { TIL (Today I Learned): '/blog/categories/#til' }
+    #- { 컴퓨터공학 : '/blog/categories/#컴퓨터공학' }
+    #- { Django: '/blog/categories/#django' }
+    #- { python: '/blog/categories/#python' }
+    #- { javascript: '/blog/categories/#javascript' }
+    #- { nodejs: '/blog/categories/#nodejs' }
+    #- { MySQL: '/blog/categories/#MySQL' }
+    #- { 알고리즘 문제풀이: '/blog/categories/#알고리즘-문제풀이' }
+    #- { git: '/blog/categories/#git' }
+    #- { firebase: '/blog/categories/#firebase' }
+    #- { etc: '/blog/categories/#etc' }
     # - { Tags: '/blog/tags/' }
   About:
     - '/about/'
@@ -66,7 +66,7 @@ category_page: '/blog/categories/'
 # Puglins
 mathjax: true # whether support mathjax
 google_analytics_token: 'UA-92094009-1' # leave blank if you don't want google analytics
-disqus_short_name: 'wayhome25-github-io' # leave blank if you don't want disqus
+disqus_short_name: 'whqjatjr1328-github-io' # leave blank if you don't want disqus
 
 
 # Use the following plug-ins

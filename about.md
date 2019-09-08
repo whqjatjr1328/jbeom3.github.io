@@ -4,9 +4,9 @@ title: About
 ---
 
 <p class="message">
-  핀테크 기업인 <a href="https://brunch.co.kr/magazine/8percent">8퍼센트</a>에서 개발을 시작하였고<br>
-  지금은 애니메이션 스트리밍 서비스를 하는 <a href="https://about.laftel.net/">라프텔</a>에서 재미있게 일하고 있습니다.<br><br>
-  꾸준히 하다보면 점점 나아지겠지 하는 마음으로<br>
-  공부한 내용을 정리하는 블로그입니다. <br><br>
-  <a href="https://www.rocketpunch.com/@wayhome25">로켓펀치 프로필</a><br>
+  안녕하세요. 컴퓨터과학을 전공하여 공부하는 학생입니다.<br>
+  아직 무엇이 되고 싶은지, 무엇을 하고 싶은지 알지 못하지만<br>
+  조금이라도 괜찮은 사람이 되고 싶은 마음으로 열심히 공부하고 있습니다.<br>
+  아직 서툴지만 잘못된 점에 대한 지적이나 많은 조언을 해주시면 감사하게 받겠습니다.<br>
+  감사합니다<br>
 </p>
